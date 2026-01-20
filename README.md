@@ -5,7 +5,7 @@
 ## 🚀 Features
 
 * Fetch trending and popular YouTube videos from the USA
-* Search for videos by keyword
+* Fetch by Select category
 * View video details (title, description, views, channel, comments)
 * Watch videos directly in the app
 * Responsive and user-friendly UI
