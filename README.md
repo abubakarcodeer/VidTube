@@ -15,7 +15,7 @@
 * React.js
 * JavaScript
 * YouTube Data API v3
-* Axios API
+* Fetch API
 * CSS
 
 ## 🔑 Getting a YouTube API Key
@@ -47,7 +47,3 @@ https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&chart=mostP
 | 401   | Invalid API Key    |
 | 403   | API quota exceeded |
 | 404   | Video not found    |
-
-## ⭐ Support
-
-If you like this project, please give it a ⭐ on GitHub.
